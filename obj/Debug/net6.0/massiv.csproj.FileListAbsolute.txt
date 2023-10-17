@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ibrahim C#\massiv\bin\Debug\net6.0\massiv.exe
+C:\Users\HP\Desktop\ibrahim C#\massiv\bin\Debug\net6.0\massiv.deps.json
+C:\Users\HP\Desktop\ibrahim C#\massiv\bin\Debug\net6.0\massiv.runtimeconfig.json
+C:\Users\HP\Desktop\ibrahim C#\massiv\bin\Debug\net6.0\massiv.dll
+C:\Users\HP\Desktop\ibrahim C#\massiv\bin\Debug\net6.0\massiv.pdb
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.AssemblyInfo.cs
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.dll
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\refint\massiv.dll
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.pdb
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\massiv.genruntimeconfig.cache
+C:\Users\HP\Desktop\ibrahim C#\massiv\obj\Debug\net6.0\ref\massiv.dll
